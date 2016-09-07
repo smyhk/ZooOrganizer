@@ -1,0 +1,7 @@
+<reptile><name>Reorx</name><age>2</age><birthDate>01/01/2013</birthDate><species>turtle</species><lifeExpectancy>0</lifeExpectancy></reptile>
+<reptile><name>Bartles</name><age>4</age><birthDate>12/12/2010</birthDate><species>iguana</species><lifeExpectancy>0</lifeExpectancy></reptile>
+<bird><name>James</name><age>45</age><birthDate>01/01/1970</birthDate><species>hawk</species><lifeExpectancy>1000</lifeExpectancy></bird>
+<bird><name>Dr. Doom</name><age>4</age><birthDate>07/04/2011</birthDate><species>eagle</species><lifeExpectancy>5</lifeExpectancy></bird>
+<mammal><name>Name Updated</name><age>5</age><birthDate>04/01/2010</birthDate><species>Species Updated</species><lifeExpectancy>0</lifeExpectancy></mammal>
+<mammal><name>Chuck Norris</name><age>9</age><birthDate>07/13/2006</birthDate><species>lion</species><lifeExpectancy>0</lifeExpectancy></mammal>
+<mammal><name>Olde Tusken</name><age>13</age><birthDate>11/01/2002</birthDate><species>goat</species><lifeExpectancy>0</lifeExpectancy></mammal>

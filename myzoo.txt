@@ -1,0 +1,4 @@
+<mammal><name>Manny</name><age>2</age><birthDate>01/01/2013</birthDate><species>pig</species><lifeExpectancy>0</lifeExpectancy></mammal>
+<reptile><name>Moe</name><age>4</age><birthDate>12/12/2010</birthDate><species>iguana</species><lifeExpectancy>0</lifeExpectancy></reptile>
+<bird><name>Jack</name><age>1</age><birthDate>03/22/2014</birthDate><species>hawk</species><lifeExpectancy>5</lifeExpectancy></bird>
+<mammal><name>Billy</name><age>4</age><birthDate>01/01/2011</birthDate><species>goat</species><lifeExpectancy>0</lifeExpectancy></mammal>
